@@ -45,7 +45,7 @@ button {
 </style> 
 </head>  
 <body>  
-    <center> <h1> Student Login Form for Delhi University</h1> </center> 
+    <center> <h1> Student Login Form for Patna University</h1> </center> 
     <form>
         <div class="container"> 
             <label>Username : </label> 
